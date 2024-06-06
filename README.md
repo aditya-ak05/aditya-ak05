@@ -1,24 +1,25 @@
 # Hi there, I'm Aadi! 👋
 
-![Profile Banner]([https://www.linkedin.com/in/adityankhajuria/overlay/background-image/))
+![Profile Banner](https://github.com/aditya-ak05/aditya-ak05/blob/main/banner.png)
 
 I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love transforming coffee into code and solving real-world problems through innovative solutions.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced JavaScript and exploring machine learning.
-- 👯 I’m looking to collaborate on open-source projects and exciting new ventures.
-- 💬 Ask me about web development, automation, and game development.
+- 💻 I enjoy working on both frontend and backend development.
+- 🌱 Currently diving deeper into cloud computing and DevOps practices.
+- 👯 Open to collaboration on interesting projects that tackle real-world problems.
+- 💬 Let's chat about software development, tech trends, or your favorite coding challenges.
 - 📫 How to reach me: [nkhajuria758@gmail.com](mailto:nkhajuria758@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love participating in hackathons and coding challenges.
+- ⚡ Fun fact: I love to do everything as a coding challenge.
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Express, Django
-- **Tools**: Git, Docker, Jenkins, Visual Studio Code
+- **Languages**: JavaScript, HTML, CSS, Python, Java, C++
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Jenkins, Visual Studio Code, AWS
 - **Databases**: MySQL, MongoDB, PostgreSQL
+
 
 ## 📈 GitHub Stats
 
@@ -28,21 +29,29 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityankhajuria/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_me.aadi)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://yourwebsite.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://snapchat.com/add/aditya_ak05)
 
-## 🏆 Achievements
+## 🎨 Projects Showcase
 
-- **Hackathon Winner**: XYZ Hackathon 2023
-- **Open Source Contributor**: Contributed to major projects like [Project A](https://github.com/project_a) and [Project B](https://github.com/project_b).
-- **Tech Blogger**: Regularly writing about tech on [My Tech Blog](https://yourblog.com).
+- [Object Detection Using Python]((https://github.com/aditya-ak05/Object-Detection-using-Python))
+- [Project B](https://github.com/your_username/project_b): Brief overview.
 
-## 📚 Latest Blog Posts
+## 📚 Education
 
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Async/Await in JavaScript](https://yourblog.com/async-await)
-- [Getting Started with Docker](https://yourblog.com/docker-intro)
-- [Building RESTful APIs with Node.js](https://yourblog.com/nodejs-api)
-<!-- BLOG-POST-LIST:END -->
+- Completed my Schooling from M.H.A.C. School Nagbani, Jammu
+- Degree in Computer Science from Vasavi College of Engineering, Hyderabad.
+- Online courses in Cloud Security and Blockchain.
+
+## 💼 Work Experience
+
+- Software Engineer at **QualiZeal India LLP.** (2023-Present)
+- Internship at **QualiZeal India LLP.** (Feb 2023 - June 2023)
+
+## 💡 Personal Goals
+
+- Learning AI and ML models to make learning code fun.
+- Master advanced algorithms and data structures.
+- Contribute to open-source projects that make a positive impact.
 
 ## 🎮 Fun Projects
 

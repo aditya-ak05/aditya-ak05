@@ -11,7 +11,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - 👯 Open to collaboration on interesting projects that tackle real-world problems.
 - 💬 Let's chat about software development, tech trends, or your favorite coding challenges.
 - 📫 How to reach me: [nkhajuria758@gmail.com](mailto:nkhajuria758@gmail.com)
-- ⚡ Fun fact: I love to do everything as a coding challenge.
+- ⚡ Fun fact: I love doing every problem as a coding challenge.
 
 ## 🛠️ Skills
 
@@ -22,10 +22,10 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical" alt="Aadi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&card_width=445" alt="Most Used Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" style="height: 195px;"/>
+</p>
 
 ## 🔗 Connect with Me
 

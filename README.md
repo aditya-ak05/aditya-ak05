@@ -20,10 +20,12 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - **Tools**: Git, Docker, Jenkins, Visual Studio Code, AWS
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
-
 ## 📈 GitHub Stats
 
-![Aadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical" alt="Aadi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
 
 ## 🔗 Connect with Me
 
@@ -33,7 +35,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 🎨 Projects Showcase
 
-- [Object Detection Using Python]((https://github.com/aditya-ak05/Object-Detection-using-Python))
+- [Object Detection Using Python](https://github.com/aditya-ak05/Object-Detection-using-Python)
 - [Project B](https://github.com/your_username/project_b): Brief overview.
 
 ## 📚 Education

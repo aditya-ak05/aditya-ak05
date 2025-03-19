@@ -13,9 +13,10 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - 📫 How to reach me: [nkhajuria758@gmail.com](mailto:nkhajuria758@gmail.com)
 - ⚡ Fun fact: I love doing every problem as a coding challenge.
 
-## Certifications  
-![CCNA: Introduction to Networks](https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png)
-[View on Credly](https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url)
+## 📃 Certifications   
+<a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="150">
+</a>
 
 
 ## 🛠️ Skills

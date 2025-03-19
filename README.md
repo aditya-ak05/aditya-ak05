@@ -19,8 +19,8 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
   <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
   <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="150">
   </a>
-  &nbsp;&nbsp;&nbsp;
-<!--  <a href="AWS_CREDLY_BADGE_URL">
+<!--   &nbsp;&nbsp;&nbsp;
+ <a href="AWS_CREDLY_BADGE_URL">
     <img src="AWS_BADGE_IMAGE_URL" alt="AWS Cloud Quest Badge" width="120">
  </a> -->
 </p>

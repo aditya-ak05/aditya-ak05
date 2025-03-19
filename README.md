@@ -14,7 +14,9 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - ⚡ Fun fact: I love doing every problem as a coding challenge.
 
 ## Certifications  
-- [AWS Cloud Quest: Cloud Practitioner]https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url
+![CCNA: Introduction to Networks](https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png)
+[View on Credly](https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url)
+
 
 ## 🛠️ Skills
 

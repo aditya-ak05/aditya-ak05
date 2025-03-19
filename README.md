@@ -15,14 +15,14 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 📃 Certifications   
 
-<p align="center">
+<p align="left">
   <a href="CCNA_CREDLY_BADGE_URL">
     <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="80">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="AWS_CREDLY_BADGE_URL">
-    <img src="AWS_BADGE_IMAGE_URL" alt="AWS Cloud Quest Badge" width="120">
-  </a>
+  //<a href="AWS_CREDLY_BADGE_URL">
+    //<img src="AWS_BADGE_IMAGE_URL" alt="AWS Cloud Quest Badge" width="120">
+  //</a>
 </p>
 
 

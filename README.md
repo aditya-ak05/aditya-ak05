@@ -15,7 +15,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 📃 Certifications   
 <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
-  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="150">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="100">
 </a>
 
 

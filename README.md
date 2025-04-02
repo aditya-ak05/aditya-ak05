@@ -16,14 +16,13 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 ## 📃 Certifications   
 
 <p align="left">
-  <a href="https://www.credly.com/badges/8bee5e53-5435-44d4-a357-2bebb8edcf6e/public_url">
-  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Badge" width="80">
-  </a>  
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
-  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" alt="CCNA: Introduction to Networks" width="80">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="80">
   </a>
-
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/8bee5e53-5435-44d4-a357-2bebb8edcf6e/public_url">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/aws-cloud-quest-cloud-practitioner.png" width="100">
+  </a>
 </p>
 
 
@@ -61,7 +60,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 💼 Work Experience
 
-- Software Engineer at **QualiZeal India LLP.** (2023-Present)
+- Associate Test Engineer at **QualiZeal India LLP.** (2023-Present)
 - Internship at **QualiZeal India LLP.** (Feb 2023 - June 2023)
 
 ## 💡 Personal Goals
@@ -77,4 +76,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aditya-ak05/aditya-ak05)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faditya-ak05%2Faditya-ak05)](https://hits.seeyoufarm.com)

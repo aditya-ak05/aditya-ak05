@@ -79,7 +79,6 @@ Thanks for stopping by! Let's create something amazing together. 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
 ![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
-![GitHub Repositories](https://img.shields.io/github/repo-count/aditya-ak05?color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
+![GitHub Repositories](https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/aditya-ak05&logo=github&color=blue)  ![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 </p>

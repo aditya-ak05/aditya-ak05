@@ -75,4 +75,5 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-![Profile Views](https://img.shields.io/github/stars/aditya-ak05?style=social)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aditya-ak05.aditya-ak05)
+

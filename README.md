@@ -75,4 +75,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faditya-ak05%2Faditya-ak05)](https://hits.seeyoufarm.com)
+![Profile Views](https://img.shields.io/github/stars/aditya-ak05?style=social)

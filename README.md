@@ -33,19 +33,21 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - **Databases**: MySQL, MongoDB, PostgreSQL
 
 ## 📈 GitHub Stats
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical" alt="Aadi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" style="height: 195px;"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" style="height: 195px;"/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
 ![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
 ![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
-![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
-
+  >
+</p>
 
 ## 🔗 Connect with Me
 

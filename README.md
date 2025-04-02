@@ -75,10 +75,8 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue&cache=${Math.random()})
-## Visitor Count  
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen)
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen)
-
-
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aditya-ak05)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/aditya-ak05/visits)
+![Profile Views](https://api.countapi.xyz/hit/aditya-ak05/visits?label=Profile%20Views&color=blue)
+[![Hit Count](https://hits.dwyl.com/aditya-ak05/aditya-ak05.svg?style=flat-square)](https://hits.dwyl.com/aditya-ak05/aditya-ak05)

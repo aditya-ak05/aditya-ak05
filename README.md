@@ -77,11 +77,11 @@ Thanks for stopping by! Let's create something amazing together. 🚀
 
 ## GitHub Stats   
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
 ![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
 ![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
 ![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
-![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)  
-![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg) 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) • [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
+

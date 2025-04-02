@@ -17,7 +17,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 <p align="left">
   <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
-  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="90">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="80">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/8bee5e53-5435-44d4-a357-2bebb8edcf6e/public_url">
@@ -83,6 +83,5 @@ Thanks for stopping by! Let's create something amazing together. 🚀
 ![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
 ![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
 ![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
-![Last Commit](https://img.shields.io/github/last-commit/aditya-ak05/aditya-ak05)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)  
 ![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg) 

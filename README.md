@@ -75,5 +75,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aditya-ak05.aditya-ak05)
-
+![Profile Views](https://api.countapi.xyz/hit/aditya-ak05/visits?label=Profile%20Views&color=blue)

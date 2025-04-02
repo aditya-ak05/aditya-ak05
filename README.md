@@ -17,11 +17,9 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 <p align="left">
   <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
-  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="80">
+  <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="90">
   </a>
   &nbsp;&nbsp;&nbsp;
-</p>
-<p>
   <a href="https://www.credly.com/badges/8bee5e53-5435-44d4-a357-2bebb8edcf6e/public_url">
   <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/aws-cloud-quest-cloud-practitioner.png" width="100">
   </a>

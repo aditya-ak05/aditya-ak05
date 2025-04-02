@@ -77,12 +77,12 @@ Thanks for stopping by! Let's create something amazing together. 🚀
 
 ## GitHub Stats  
 
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue)  
-![GitHub Repo stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social)  
-![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05)  
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05)  
-![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social)  
-![GitHub License](https://img.shields.io/github/license/aditya-ak05/aditya-ak05)  
-![GitHub Last Commit](https://img.shields.io/github/last-commit/aditya-ak05/aditya-ak05)  
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue) 
+![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
+![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
+![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
+![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
+![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
+![GitHub License](https://img.shields.io/github/license/aditya-ak05/aditya-ak05) 
+![Last Commit](https://img.shields.io/github/last-commit/aditya-ak05/aditya-ak05)
 

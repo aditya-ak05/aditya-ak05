@@ -75,4 +75,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-[![Hit Count](https://hits.dwyl.com/aditya-ak05/aditya-ak05.svg?style=flat-square)](https://hits.dwyl.com/aditya-ak05/aditya-ak05)
+[![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue)](https://github.com/aditya-ak05)

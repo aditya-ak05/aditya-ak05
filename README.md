@@ -85,4 +85,6 @@ Thanks for stopping by! Let's create something amazing together. 🚀
 ![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
 ![GitHub License](https://img.shields.io/github/license/aditya-ak05/aditya-ak05) 
 ![Last Commit](https://img.shields.io/github/last-commit/aditya-ak05/aditya-ak05)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)  
+![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)  
 

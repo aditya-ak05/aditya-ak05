@@ -15,7 +15,7 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 ## 📃 Certifications   
 
-<p align="left">
+<p align="left" align="center">
   <a href="https://www.credly.com/badges/cf53a7ec-d685-45ed-959e-82d533596bf9/public_url">
   <img src="https://github.com/aditya-ak05/aditya-ak05/blob/main/ccna-introduction-to-networks.png" width="80">
   </a>
@@ -39,6 +39,14 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical" alt="Aadi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" style="height: 195px;"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
+![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
+![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
+![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
+![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
+![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
 ## 🔗 Connect with Me
 
@@ -74,14 +82,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 - [Automation Script](https://github.com/your_username/automation_script)
 
 Thanks for stopping by! Let's create something amazing together. 🚀
-
-## GitHub Stats   
-
-![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
-![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
-![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 
-![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05) 
-![GitHub PRs](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05) 
-![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social) 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![GPL License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 

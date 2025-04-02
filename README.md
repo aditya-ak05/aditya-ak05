@@ -75,7 +75,14 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aditya-ak05)
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/aditya-ak05/visits)
-![Profile Views](https://api.countapi.xyz/hit/aditya-ak05/visits?label=Profile%20Views&color=blue)
-[![Hit Count](https://hits.dwyl.com/aditya-ak05/aditya-ak05.svg?style=flat-square)](https://hits.dwyl.com/aditya-ak05/aditya-ak05)
+## GitHub Stats  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=blue)  
+![GitHub Repo stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social)  
+![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social)  
+![GitHub Issues](https://img.shields.io/github/issues/aditya-ak05/aditya-ak05)  
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/aditya-ak05/aditya-ak05)  
+![GitHub Followers](https://img.shields.io/github/followers/aditya-ak05?style=social)  
+![GitHub License](https://img.shields.io/github/license/aditya-ak05/aditya-ak05)  
+![GitHub Last Commit](https://img.shields.io/github/last-commit/aditya-ak05/aditya-ak05)  
+

@@ -38,7 +38,8 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya-ak05&show_icons=true&theme=radical" alt="Aadi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ak05&layout=compact&theme=radical&langs_count=8" alt="Most Used Languages" style="height: 195px;"/
->
+  >
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-ak05&color=brightgreen) 
 ![GitHub Stars](https://img.shields.io/github/stars/aditya-ak05/aditya-ak05?style=social) 
 ![GitHub Forks](https://img.shields.io/github/forks/aditya-ak05/aditya-ak05?style=social) 

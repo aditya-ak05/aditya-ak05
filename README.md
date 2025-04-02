@@ -75,4 +75,4 @@ I'm a passionate Developer, Open Source Enthusiast, and Tech Explorer. I love tr
 
 Thanks for stopping by! Let's create something amazing together. 🚀
 
-![Profile Views](https://api.countapi.xyz/hit/aditya-ak05/visits?label=Profile%20Views&color=blue)
+[![Hit Count](https://hits.dwyl.com/aditya-ak05/aditya-ak05.svg?style=flat-square)](https://hits.dwyl.com/aditya-ak05/aditya-ak05)
